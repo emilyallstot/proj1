@@ -1,0 +1,5 @@
+argparse==1.2.1
+httplib2==0.9.1
+oauth2==1.5.211
+python-yelp-v2==0.5.2
+wsgiref==0.1.2
