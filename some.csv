@@ -1,5 +1,6 @@
 Ming & Jason's,ming-and-jasons-san-francisco
 Natural Nails,natural-nails-san-francisco
+Sugarcoat,sugarcoat-san-francisco
 Pretty Parlor,pretty-parlor-san-francisco-4
 Discount Beauty Supply,discount-beauty-supply-san-francisco
 The I Spa,the-i-spa-san-francisco
@@ -19,7 +20,6 @@ Sol Y Luna Spa,sol-y-luna-spa-san-francisco
 Fellow Barber,fellow-barber-san-francisco
 Shear Bliss,shear-bliss-san-francisco
 Nail Chic,nail-chic-san-francisco-2
-Selina's Bridal Shop,selinas-bridal-shop-fremont-4
 EPI Center MedSpa,epi-center-medspa-san-francisco
 Nails 2001,nails-2001-san-francisco
 Melissa Cope Skincare & Makeup Studio,melissa-cope-skincare-and-makeup-studio-san-francisco
@@ -28,6 +28,7 @@ The John Brody Salon,the-john-brody-salon-san-francisco
 La Fleur 2,la-fleur-2-san-francisco-2
 Joffer,joffer-san-francisco
 Angel's Nails,angels-nails-san-francisco
+Drybar Union Square,drybar-union-square-san-francisco
 Diane's Nail Care,dianes-nail-care-san-francisco-3
 Hair Caffe,hair-caffe-san-francisco
 Barnets,barnets-san-francisco
@@ -225,6 +226,7 @@ Yelena Spa,yelena-spa-san-francisco
 Paradise Nail Spa,paradise-nail-spa-san-francisco
 Benefit Brow Bar at Macy's,benefit-brow-bar-at-macys-san-francisco
 Yellow Orchid Nails Spa,yellow-orchid-nails-spa-san-francisco-2
+Colorbox Hair Salon,colorbox-hair-salon-san-francisco
 Rumours Hair & Nail Salon,rumours-hair-and-nail-salon-san-francisco
 Dermaplus Skin + Body,dermaplus-skin-body-san-francisco
 Sassi Beauty Salon,sassi-beauty-salon-san-francisco
@@ -242,7 +244,6 @@ Yvonne Hair Salon,yvonne-hair-salon-san-francisco
 Beauty Company,beauty-company-san-francisco
 Mike Page Style Lab,mike-page-style-lab-san-francisco
 Lotus Foot Care At Home,lotus-foot-care-at-home-san-francisco
-Body Manipulations,body-manipulations-san-francisco
 Remde Spa,remde-spa-san-francisco-2
 Zen Day Spa,zen-day-spa-san-francisco
 Lombard Heights Nail Salon,lombard-heights-nail-salon-san-francisco
@@ -274,6 +275,7 @@ Kitty's Nails,kittys-nails-san-francisco
 Tiptoes Union Square,tiptoes-union-square-san-francisco
 Akimi Hair Gallery,akimi-hair-gallery-san-francisco
 Hair Artist Aurora Theresa,hair-artist-aurora-theresa-san-francisco-2
+Haight Ashbury Tattoo and Piercing,haight-ashbury-tattoo-and-piercing-san-francisco
 Jungle Red,jungle-red-san-francisco
 Presidio Heights Salon,presidio-heights-salon-san-francisco
 Laline,laline-san-francisco-2
@@ -283,12 +285,11 @@ The Traveling Stylist,the-traveling-stylist-sacramento-2
 Arthur Sebastian,arthur-sebastian-san-francisco
 Eyebrows To Die For,eyebrows-to-die-for-san-francisco
 Haute Hair Studio,haute-hair-studio-san-francisco-2
-Haight Ashbury Tattoo and Piercing,haight-ashbury-tattoo-and-piercing-san-francisco
+Images For Hair,images-for-hair-san-francisco
 Union Nails,union-nails-san-francisco-2
 La Tira Wax Studio,la-tira-wax-studio-san-francisco
 The Final Touch 2,the-final-touch-2-san-francisco-2
 West Coast Beauty Nails,west-coast-beauty-nails-san-francisco
-Sain Saine,sain-saine-san-francisco
 Hair Weaving & Braids By Jovann,hair-weaving-and-braids-by-jovann-san-francisco-4
 Tooba Salon,tooba-salon-san-francisco
 Doan's Nails,doans-nails-san-francisco
@@ -382,7 +383,6 @@ The Pretty Pretty Collective,the-pretty-pretty-collective-san-francisco
 Nora Spa & Salon,nora-spa-and-salon-san-francisco
 Marina Nails,marina-nails-san-francisco
 Zindagi Salon,zindagi-salon-san-francisco
-Salon Miel,salon-miel-san-francisco
 SenSpa,senspa-san-francisco
 Minia Make Up,minia-make-up-san-francisco
 Poppies,poppies-san-francisco
@@ -504,12 +504,10 @@ Wild Heart,wild-heart-san-francisco
 Cass Leung,cass-leung-san-francisco
 Trendy Hair Gallery & Beauty Supply,trendy-hair-gallery-and-beauty-supply-san-francisco
 West Coast Beauty Supply,west-coast-beauty-supply-san-francisco
-Suchada Thai Massage,suchada-thai-massage-san-francisco
 Lux Salon,lux-salon-san-francisco
 Nails By Nancy,nails-by-nancy-san-francisco
 Jackson Place Salon,jackson-place-salon-san-francisco
 MadKat,madkat-san-francisco
-SharpKuts,sharpkuts-san-francisco
 Carlton Hair,carlton-hair-san-francisco
 Salon Alta,salon-alta-san-francisco
 Juicy Nails,juicy-nails-san-francisco
@@ -572,7 +570,6 @@ Edo Salon,edo-salon-san-francisco-3
 MAC Cosmetics,mac-cosmetics-san-francisco-8
 Rose and Kim Spa,rose-and-kim-spa-san-francisco-2
 Beauty Supply Warehouse,beauty-supply-warehouse-san-francisco-3
-Braindrops,braindrops-san-francisco-2
 Top Ten Nails,top-ten-nails-san-francisco
 European Skin Care,european-skin-care-san-francisco
 Nails N Beauty,nails-n-beauty-san-francisco
@@ -603,6 +600,7 @@ The Social Beauty Co.,the-social-beauty-co-san-francisco
 Milk +,milk-san-francisco-2
 Elizabeth Hair Studio,elizabeth-hair-studio-san-francisco-3
 Waxing 4 Men,waxing-4-men-san-francisco
+Addy's Hair Salon,addys-hair-salon-san-francisco
 Oasis Traveling Spa,oasis-traveling-spa-el-granada
 e Salon,e-salon-san-francisco
 New York Hair & Nail,new-york-hair-and-nail-san-francisco
@@ -635,13 +633,11 @@ Wanderlust Salon,wanderlust-salon-san-francisco
 Minna Nails,minna-nails-san-francisco-3
 Queen's Nail,queens-nail-san-francisco
 Virgil's Hair Cutting Studio,virgils-hair-cutting-studio-san-francisco
-Perfect Styling Salon and Beauty,perfect-styling-salon-and-beauty-san-francisco
 Nails by Lavinia,nails-by-lavinia-san-francisco
 European Skin Care by Maria,european-skin-care-by-maria-san-francisco-2
 Professional Makeup Artistry,professional-makeup-artistry-san-francisco-2
 Jade Mendoza,jade-mendoza-san-francisco-3
 Michelle Nails No 2.,michelle-nails-no-2-san-francisco
-Willy's Barber Shop,willys-barber-shop-san-francisco
 Good Looks Salon,good-looks-salon-san-francisco
 Salon Village,salon-village-san-francisco
 Kelly and Tiffany Skincare,kelly-and-tiffany-skincare-san-francisco
