@@ -1,5 +1,6 @@
 import os
 import yelp
+import csv
 
 yelp_api = yelp.Api(
     consumer_key=os.environ['YELP_CONSUMER_KEY'],
@@ -34,7 +35,11 @@ yelp_ids_manicures_nail_salons = yelp_to_salon_list_SF('nail salon', yelp_ids_em
 print 'RETURNED THIS MANY MANICURES NAIL SALON PLACES WITHIN 6000m of San Francisco:'
 print len(yelp_ids_manicures_nail_salons)
 
-
+x = yelp_ids_manicures_nail_salons
+with open('some.csv', 'wb') as f:
+    writer = csv.writer(f)
+    for key, value in yelp_ids_manicures_nail_salons.items():
+        writer.writerow([key.encode('ascii', 'ignore'), value.encode('ascii', 'ignore')])
 
 
 
