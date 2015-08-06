@@ -1,0 +1,22 @@
+http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html?utm_medium=twitter
+
+COLORS: http://iwork3.us/2015/02/18/pantone-2015-fall-fashion-report/
+
+
+https://snazzymaps.com/style/20284/cyr-mint
+file:///tmp/snazzy-maps-example-celestial-mondrian-style.html
+
+cashmere rose:  CF86A3
+
+
+
+
+http://gmaps-samples-v3.googlecode.com/svn/trunk/styledmaps/wizard/index.html?utm_medium=twitter
+[ { "stylers": [ { "hue": "#ff00d4" }, { "gamma": 0.86 }, { "lightness": 9 }, { "saturation": 88 } ] },{ "featureType": "water", "stylers": [ { "hue": "#00f6ff" }, { "saturation": 36 }, { "gamma": 1.85 }, { "lightness": -63 } ] } ]
+
+
+http://maps.googleapis.com/maps/api/staticmap?center=37.75772,-122.4376&zoom=12&format=png&sensor=false&size=640x480&maptype=roadmap&style=hue:0xff00d4|gamma:0.86|lightness:9|saturation:88&style=feature:water|hue:0x00f6ff|saturation:36|gamma:1.85|lightness:-63
+
+
+
+http://uploads.bobitstudios.com/mediakit/files/2015_mediaKit_CORE.pdf
